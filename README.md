@@ -1,2 +1,2 @@
 # RefugioPerro
-Ssitema de adopcion de caninos realizado con django
+Sitema de adopcion de caninos realizado con django
